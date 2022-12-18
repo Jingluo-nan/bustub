@@ -53,7 +53,7 @@ The following instructions are adapted from the Github documentation on [duplica
    $ git remote -v
    origin	https://github.com/student/bustub-private.git (fetch)
    origin	https://github.com/student/bustub-private.git (push)
-   public	https://github.com/cmu-db/bustub.git (fetch)
+G   public	https://github.com/cmu-db/bustub.git (fetch)
    public	https://github.com/cmu-db/bustub.git (push)
    ```
 6. You can now pull in changes from the public BusTub repository as needed with:
